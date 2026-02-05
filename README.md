@@ -13,6 +13,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
+| [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
