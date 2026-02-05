@@ -11,10 +11,6 @@ class Solution {
                 count++;
             else count--;
         }
-        count=0;
-        for(int num:nums){
-            if(candidate==num) count++;
-        }
-        return (count > nums.length/2) ? candidate:-1;
+        return candidate;
     }
 }
