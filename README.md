@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
@@ -22,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
