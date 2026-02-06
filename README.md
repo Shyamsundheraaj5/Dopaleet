@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
@@ -59,4 +60,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
