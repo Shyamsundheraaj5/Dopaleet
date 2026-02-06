@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
@@ -20,12 +21,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
