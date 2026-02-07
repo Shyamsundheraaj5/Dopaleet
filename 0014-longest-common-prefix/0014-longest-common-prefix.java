@@ -1,22 +1,13 @@
 class Solution {
-    // strs = ["flower","flow","flight"]
     public String longestCommonPrefix(String[] strs) {
-        StringBuilder sb = new StringBuilder("");
-        
-        Arrays.sort(strs);
-        // strs = ["flight", "flow", "flower"]
-        
-        char[] first = strs[0].toCharArray();
-        // ['f', 'l', 'i', 'g', 'h', 't']
-        char[] last = strs[strs.length-1].toCharArray();
-        //['f', 'l', 'o', 'w', 'e', 'r']
+        if (strs.length == 0) return "";
+        if (strs.length == 1) return strs[0];
 
-        for(int i=0;i<first.length;i++){
-            if(first[i]!=last[i]){
-                break; 
-            }
-            sb.append(first[i]);
+        Arrays.sort(strs);
+        for(int i=0;i<strs[0].length();i++){
+            if(strs[0].charAt(i)!=strs[strs.length-1].charAt(i))
+                return strs[0].substring(0,i);
         }
-        return sb.toString();
+        return strs[0];
     }
 }
