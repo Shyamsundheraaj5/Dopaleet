@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
