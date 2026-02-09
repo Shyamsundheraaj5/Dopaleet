@@ -14,7 +14,6 @@ class Solution {
             }else{
                 ans += prefix[i]-prefix[start-1];
             }
-            start++;
         }
         return ans;
     }
