@@ -1,6 +1,6 @@
 class Solution {
     public List<String> fizzBuzz(int n) {
-        ArrayList<String> answer = new ArrayList<>();
+        ArrayList<String> answer = new ArrayList<>(n);
         for(int i=1;i<=n;i++){
             if(i%3==0 && i%5==0){
                 answer.add("FizzBuzz");
