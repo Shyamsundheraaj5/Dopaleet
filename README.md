@@ -62,6 +62,7 @@
 | [0011-container-with-most-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Trie
 |  |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
 | ------- |
