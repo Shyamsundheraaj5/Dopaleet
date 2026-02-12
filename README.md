@@ -14,6 +14,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
