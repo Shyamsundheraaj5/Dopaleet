@@ -88,6 +88,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1768-merge-strings-alternately) |
+| [3110-score-of-a-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
