@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2235-add-two-integers) |
@@ -57,6 +58,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
 ## Two Pointers
@@ -86,6 +88,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
