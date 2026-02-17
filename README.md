@@ -132,4 +132,9 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0401-binary-watch) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
