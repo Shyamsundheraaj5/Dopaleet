@@ -7,6 +7,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2652-sum-multiples) |
@@ -136,6 +137,7 @@
 | [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
