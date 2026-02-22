@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -122,6 +123,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0401-binary-watch) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
