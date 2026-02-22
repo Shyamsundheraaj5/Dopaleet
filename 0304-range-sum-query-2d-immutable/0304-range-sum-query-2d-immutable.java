@@ -1,7 +1,7 @@
 class NumMatrix {
     private int[][] prefix;
     public NumMatrix(int[][] matrix) {
-        if(matrix.length==0||matrix==null||matrix[0].length==0) return;
+        if(matrix==null||matrix.length==0||matrix[0].length==0) return;
         prefix = new int[matrix.length][matrix[0].length];
         prefix[0][0] = matrix[0][0];
         // prefix of first row and first column
@@ -17,7 +17,6 @@ class NumMatrix {
                 prefix[i][j] = matrix[i][j]+prefix[i][j-1]+prefix[i-1][j]-prefix[i-1][j-1];
             }
         }
-
     }
     
     public int sumRegion(int row1, int col1, int row2, int col2) {
