@@ -19,6 +19,7 @@
 | [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0238-product-of-array-except-self) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0242-valid-anagram) |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
