@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
 |  |
 | ------- |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
