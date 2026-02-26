@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Hash Table
@@ -103,6 +104,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1768-merge-strings-alternately](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
