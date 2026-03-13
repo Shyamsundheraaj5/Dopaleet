@@ -18,6 +18,7 @@
 | [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
@@ -121,12 +123,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
@@ -174,4 +178,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
