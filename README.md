@@ -188,4 +188,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
