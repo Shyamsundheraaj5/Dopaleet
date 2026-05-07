@@ -39,6 +39,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0485-max-consecutive-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
