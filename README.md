@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -25,6 +26,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0229-majority-element-ii) |
@@ -200,4 +202,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
