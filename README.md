@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0507-perfect-number) |
@@ -48,6 +49,7 @@
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0229-majority-element-ii) |
@@ -90,6 +92,7 @@
 | [0015-3sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
