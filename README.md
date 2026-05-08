@@ -27,6 +27,7 @@
 | [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@
 | [0015-3sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0229-majority-element-ii) |
@@ -96,6 +98,7 @@
 | [0015-3sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0202-happy-number) |
