@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
@@ -101,6 +102,7 @@
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0283-move-zeroes) |
@@ -174,6 +176,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
