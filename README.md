@@ -37,6 +37,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +103,7 @@
 | [0125-valid-palindrome](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
