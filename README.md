@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0229-majority-element-ii) |
@@ -170,6 +171,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0304-range-sum-query-2d-immutable) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
@@ -214,6 +217,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
