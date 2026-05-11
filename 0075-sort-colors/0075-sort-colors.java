@@ -14,7 +14,6 @@ class Solution {
                 nums[mid] = nums[high];
                 nums[high] = 2;
                 high--;
-                mid++;
             }
             else{
                 mid++;
