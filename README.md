@@ -29,6 +29,7 @@
 | [0053-maximum-subarray](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
