@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0189-rotate-array) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
