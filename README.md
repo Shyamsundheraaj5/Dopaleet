@@ -35,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
@@ -165,6 +166,7 @@
 | [0053-maximum-subarray](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
