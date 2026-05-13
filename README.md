@@ -53,6 +53,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0540-single-element-in-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -96,6 +97,7 @@
 | [0169-majority-element](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0540-single-element-in-a-sorted-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
