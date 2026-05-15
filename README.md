@@ -14,6 +14,7 @@
 | [0507-perfect-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2652-sum-multiples) |
 ## Array
@@ -158,6 +159,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1754-largest-merge-of-two-strings](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3110-score-of-a-string) |
@@ -188,6 +190,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 | [1754-largest-merge-of-two-strings](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1754-largest-merge-of-two-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Prefix Sum
 |  |
