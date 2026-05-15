@@ -151,6 +151,7 @@
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0696-count-binary-substrings) |
+| [1021-remove-outermost-parentheses](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1754-largest-merge-of-two-strings](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1768-merge-strings-alternately) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
