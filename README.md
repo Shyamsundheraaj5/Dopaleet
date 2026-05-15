@@ -53,6 +53,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
