@@ -7,9 +7,7 @@ class Solution:
 
         for i in range(len(nums)):
             if nums[i] !=0:
-                temp = nums[i]
-                nums[i] = 0
-                nums[j] = temp
+                nums[i], nums[j] = nums[j], nums[i]
                 j = j+1
 
 
