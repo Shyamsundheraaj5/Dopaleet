@@ -1,14 +1,11 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        map={}
+        freq=[0]*26
 
         for char in s:
-            map[char] = map.get(char,0)+1
+            freq[ord(char)-ord('a')] +=1
         
-        for i, char in enumerate(s):
-            if map[char] == 1:
-                return i
+        for index, char in enumerate(s):
+            if(freq[ord(char)-ord('a')]==1):
+                return index
         return -1
-
-            
-        
