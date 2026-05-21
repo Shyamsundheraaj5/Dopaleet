@@ -59,6 +59,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Hash Table
@@ -78,6 +79,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0387-first-unique-character-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -167,11 +169,13 @@
 | [1903-largest-odd-number-in-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
