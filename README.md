@@ -129,6 +129,7 @@
 | [0283-move-zeroes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0696-count-binary-substrings) |
 | [1754-largest-merge-of-two-strings](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1754-largest-merge-of-two-strings) |
@@ -159,6 +160,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1021-remove-outermost-parentheses) |
