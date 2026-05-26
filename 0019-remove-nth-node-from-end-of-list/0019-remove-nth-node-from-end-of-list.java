@@ -10,22 +10,22 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        int size = sizeLinkedList(head);
-        if(size==n) return head.next;
-        ListNode temp = head;
-        for(int i=0;i<size-n-1;i++){
-            temp = temp.next;
+        ListNode fast = head;
+        ListNode slow = head;
+
+        for(int i=0;i<n;i++){
+            if(fast.next ==null){
+                head = head.next;
+                return head;
+            }
+            fast = fast.next;
         }
-        temp.next = temp.next.next;
+        while(fast.next !=null){
+            slow = slow.next;
+            fast = fast.next;
+        }
+
+        slow.next = slow.next.next;
         return head;
-    }
-    public int sizeLinkedList(ListNode head){
-        ListNode temp = head;
-        int size=0;
-        while(temp!=null){
-            size++;
-            temp = temp.next;
-        }
-        return size;
     }
 }
