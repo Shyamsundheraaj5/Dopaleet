@@ -119,6 +119,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0088-merge-sorted-array) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0206-reverse-linked-list) |
