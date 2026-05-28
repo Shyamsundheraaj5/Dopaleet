@@ -12,6 +12,7 @@
 | [0204-count-primes](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -286,6 +287,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0326-power-of-three) |
 ## Enumeration
 |  |
 | ------- |
