@@ -13,6 +13,7 @@
 | [0231-power-of-two](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -288,6 +290,7 @@
 | [0206-reverse-linked-list](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
 | ------- |
