@@ -307,4 +307,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
