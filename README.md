@@ -61,6 +61,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2678-number-of-senior-citizens](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/2678-number-of-senior-citizens) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/1929-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/Shyamsundheraaj5/Dopaleet/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
